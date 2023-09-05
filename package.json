@@ -28,7 +28,7 @@
     "md5": "^2.3.0",
     "moment": "^2.29.1",
     "promisify": "^0.0.3",
-    "pug": "^2.0.3",
+    "pug": "^2.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
